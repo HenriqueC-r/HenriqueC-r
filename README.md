@@ -1,34 +1,19 @@
-# Hi 👋 I'm Caio Henrique
+# Hi, I'm Caio Henrique
 
-🎓 Software Engineering student  
-💻 Focused on Python, automation and AI tools  
-🚀 Passionate about building practical projects
+Software Engineering student focused on Python, automation, and AI tools.
+Passionate about building practical projects and learning by creating real solutions.
 
----
-
-## 🛠 Technologies
-
+## Technologies
 - Python
 - Git & GitHub
 - Automation (PyAutoGUI, Pandas)
 - AI tools (OpenAI API)
 
----
+## Projects
+- Python Calculator — Desktop calculator built with Python and Tkinter
+- Registration Automation — Product registration automation using PyAutoGUI and Pandas
+- AI Chatbot — Chatbot built with Python, Streamlit, and OpenAI API
 
-## 📂 Projects
-
-🔹 **Python Calculator**  
-Desktop calculator built with Python and Tkinter.
-
-🔹 **Registration Automation**  
-Automation script for product registration using PyAutoGUI and Pandas.
-
-🔹 **AI Chatbot**  
-Chatbot built with Python, Streamlit and OpenAI API.
-
----
-
-## 📫 Contact
-
+## Contact
 - Email: hecaioo28@gmail.com
-- LinkedIn: https://www.linkedin.com/in/seu-link
+- LinkedIn: https://www.linkedin.com/in/caio-h-1b02793b0/
