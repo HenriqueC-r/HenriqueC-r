@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Caio Henrique
 
-<!--
-**HenriqueC-r/HenriqueC-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student  
+💻 Focused on Python, automation and AI tools  
+🚀 Passionate about building practical projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies
+
+- Python
+- Git & GitHub
+- Automation (PyAutoGUI, Pandas)
+- AI tools (OpenAI API)
+
+---
+
+## 📂 Projects
+
+🔹 **Python Calculator**  
+Desktop calculator built with Python and Tkinter.
+
+🔹 **Registration Automation**  
+Automation script for product registration using PyAutoGUI and Pandas.
+
+🔹 **AI Chatbot**  
+Chatbot built with Python, Streamlit and OpenAI API.
+
+---
+
+## 📫 Contact
+
+- Email: hecaioo28@gmail.com
+- LinkedIn: https://www.linkedin.com/in/seu-link
