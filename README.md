@@ -22,22 +22,6 @@ Currently focused on backend development, data analysis, and automation using Py
 
 ---
 
-## 📂 Projects
-
-🔹 **Python Calculator**  
-Desktop calculator built with Python and Tkinter.
-
-🔹 **Registration Automation**  
-Automation using Python, PyAutoGUI, and Pandas.
-
-🔹 **AI Chatbot**  
-Built with Python, Streamlit, and OpenAI API.
-
-🔹 **Ticket System with Python & SQL**  
-Support ticket system with database integration.
-
----
-
 ## 📫 Contact
 📧 Email: hecaioo28@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/caio-h-1b02793b0/
