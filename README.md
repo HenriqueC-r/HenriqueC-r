@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Caio Henrique
 
 🎓 Software Engineering student  
-💻 Focused on Python, Automation, and AI  
+💻 Focused on Python, Automation, AI and SQL  
 🚀 Passionate about building real-world projects and solving problems with technology  
 
 ---
