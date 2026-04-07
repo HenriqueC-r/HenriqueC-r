@@ -17,7 +17,7 @@ Currently focused on backend development, data analysis, and automation using Py
 - Node.js
 - SQL
 - Git & GitHub
-- Automation (PyAutoGUI, scripts)
+- Automation
 - AI tools
 
 ---
