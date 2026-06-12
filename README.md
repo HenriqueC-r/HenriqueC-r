@@ -14,7 +14,7 @@
 
 I'm passionate about building software that solves real-world problems. I focus on backend development, automation, AI, and network systems — and I believe the best way to learn is by deploying solutions that actually work in the real world.
 
-Currently improving my English and expanding my projects to more clients and use cases.
+Currently focused on improving my English, expanding my software solutions to more clients, and deepening my knowledge in Artificial Intelligence.
 
 ---
 
@@ -37,11 +37,12 @@ A monitoring solution designed for small and medium-sized businesses, currently 
 - Telegram alerts for real-time notifications
 - Event logging with SQLite database
 - Multi-client architecture · Windows deployment
+- Currently used by local businesses
 
 ---
 
 ### [PinhoGym — Gym Management System](https://github.com/HenriqueC-r/PinhoGym)
-A complete gym management system developed and sold to a local gym. Built to handle real day-to-day operations.
+A complete gym management system developed and successfully sold to a local gym, built to handle real day-to-day operations.
 
 ---
 
@@ -87,6 +88,6 @@ A desktop automation tool that reads product data from spreadsheets (pandas) and
 
 <div align="center">
 
-*Always learning. Always building.*
+*Turning ideas into real-world software.*
 
 </div>
