@@ -2,7 +2,7 @@
 
 # Hi, I'm Caio Henrique 👋
 
-**Software Engineering Student · Python Developer · Backend & Automation**
+**Software Engineering Student · Python & Php Developer · Backend**
 
 🇧🇷 Based in Brazil &nbsp;·&nbsp; 📧 hecaioo28@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/caio-h-1b02793b0) &nbsp;·&nbsp; [Instagram @devcaio.ramos](https://www.instagram.com/devcaio.ramos)
 
@@ -54,6 +54,7 @@ A desktop automation tool that reads product data from spreadsheets (pandas) and
 ## ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
