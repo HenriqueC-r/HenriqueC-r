@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Caio Henrique 👋
-
 **Software Engineering Student · Python & Php Developer · Backend**
 
 🇧🇷 Based in Brazil &nbsp;·&nbsp; 📧 hecaioo28@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/caio-h-1b02793b0) &nbsp;·&nbsp; [Instagram @devcaio.ramos](https://www.instagram.com/devcaio.ramos)
@@ -22,7 +21,6 @@ Currently focused on improving my English, expanding my software solutions to mo
 
 ### [IARA — Intelligent Autonomous Remote Assistant](https://github.com/HenriqueC-r/IARA-Intelligent-Autonomous-Remote-Assistant)
 An AI-powered assistant built to understand natural language, plan actions, and interact with computers through intelligent automation.
-
 - Natural language interaction
 - Dynamic task planning
 - Computer automation via tool-based architecture
@@ -32,12 +30,20 @@ An AI-powered assistant built to understand natural language, plan actions, and 
 
 ### [GestãoIP — Network Monitoring Platform](https://github.com/HenriqueC-r/GestaoIP)
 A monitoring solution designed for small and medium-sized businesses, currently deployed and tested in real business environments.
-
 - Device monitoring via ICMP (Ping)
 - Telegram alerts for real-time notifications
 - Event logging with SQLite database
 - Multi-client architecture · Windows deployment
 - Currently used by local businesses
+
+---
+
+### [LoginPHP — Authentication System](https://github.com/HenriqueC-r/LoginPHP)
+A PHP login and registration system built from scratch (no frameworks), developed together with [Mirianrl](https://github.com/Mirianrl) and also used as a hands-on security learning lab.
+- User registration, login, listing, and deletion
+- Migrating to PDO prepared statements to prevent SQL Injection
+- Applying `htmlspecialchars()` and proper session handling to prevent XSS and session flaws
+- Documenting the evolution from "insecure" to "secure by default"
 
 ---
 
