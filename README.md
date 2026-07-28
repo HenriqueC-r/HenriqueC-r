@@ -11,11 +11,11 @@
 
 ## About Me
 
-I'm a Software Engineering student passionate about building software that solves real-world problems.
+I'm a Software Engineering student who enjoys building software for real businesses.
 
-My main focus is backend development with **PHP** and **Python**, building REST APIs, automation tools, and business management systems. I enjoy designing scalable solutions, applying security best practices, and turning ideas into software used by real clients.
+I mainly work with PHP and Python, developing REST APIs, automation tools, management systems, and network solutions. I like understanding how systems work behind the scenes and turning ideas into practical software that people can actually use.
 
-Currently, I'm improving my English, expanding my software portfolio, and deepening my knowledge of Software Architecture and Artificial Intelligence.
+Currently, I'm studying Software Architecture, Artificial Intelligence, and continuously improving my English while building new projects.
 
 ---
 
