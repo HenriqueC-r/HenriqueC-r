@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Caio Henrique 👋
-**Software Engineering Student · Python & Php Developer · Backend**
+**Software Engineering Student · Backend Developer · PHP · Python · APIs**
 
 🇧🇷 Based in Brazil &nbsp;·&nbsp; 📧 hecaioo28@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/caio-h-1b02793b0) &nbsp;·&nbsp; [Instagram @devcaio.ramos](https://www.instagram.com/devcaio.ramos)
 
@@ -11,67 +11,85 @@
 
 ## About Me
 
-I'm passionate about building software that solves real-world problems. I focus on backend development, automation, AI, and network systems — and I believe the best way to learn is by deploying solutions that actually work in the real world.
+I'm a Software Engineering student passionate about building software that solves real-world problems.
 
-Currently focused on improving my English, expanding my software solutions to more clients, and deepening my knowledge in Artificial Intelligence.
+My main focus is backend development with **PHP** and **Python**, building REST APIs, automation tools, and business management systems. I enjoy designing scalable solutions, applying security best practices, and turning ideas into software used by real clients.
+
+Currently, I'm improving my English, expanding my software portfolio, and deepening my knowledge of Software Architecture and Artificial Intelligence.
 
 ---
 
 ## 🚀 Featured Projects
 
-### [IARA — Intelligent Autonomous Remote Assistant](https://github.com/HenriqueC-r/IARA-Intelligent-Autonomous-Remote-Assistant)
-An AI-powered assistant built to understand natural language, plan actions, and interact with computers through intelligent automation.
-- Natural language interaction
-- Dynamic task planning
-- Computer automation via tool-based architecture
-- Remote assistance capabilities
+### [Login System PHP — JWT Authentication API](https://github.com/HenriqueC-r/Login-System-PHP)
+
+A secure authentication API built with native PHP and MySQL, developed as the backend of a full stack authentication system together with **[Mirianrl](https://github.com/Mirianrl)**, who developed the frontend using Vue.js and Quasar.
+
+**Highlights**
+
+- REST API built with native PHP
+- JWT authentication
+- Password hashing with `password_hash()`
+- Protected routes using authentication middleware
+- PDO prepared statements against SQL Injection
+- Environment variables with `.env`
+- Composer package management
+- Full integration with a Vue.js + Quasar frontend
 
 ---
 
 ### [GestãoIP — Network Monitoring Platform](https://github.com/HenriqueC-r/GestaoIP)
-A monitoring solution designed for small and medium-sized businesses, currently deployed and tested in real business environments.
-- Device monitoring via ICMP (Ping)
-- Telegram alerts for real-time notifications
-- Event logging with SQLite database
-- Multi-client architecture · Windows deployment
-- Currently used by local businesses
+
+A network monitoring platform developed for small and medium-sized businesses and currently deployed in production.
+
+**Highlights**
+
+- ICMP (Ping) monitoring
+- Telegram notifications
+- SQLite event logging
+- Multi-client architecture
+- Production deployment
 
 ---
 
-### [LoginPHP — Authentication System](https://github.com/HenriqueC-r/LoginPHP)
-A PHP login and registration system built from scratch (no frameworks), developed together with [Mirianrl](https://github.com/Mirianrl) and also used as a hands-on security learning lab.
-- User registration, login, listing, and deletion
-- Migrating to PDO prepared statements to prevent SQL Injection
-- Applying `htmlspecialchars()` and proper session handling to prevent XSS and session flaws
-- Documenting the evolution from "insecure" to "secure by default"
+### [IARA — Intelligent Autonomous Remote Assistant](https://github.com/HenriqueC-r/IARA-Intelligent-Autonomous-Remote-Assistant)
+
+An AI-powered assistant designed to understand natural language, plan actions, and automate computer tasks.
+
+**Highlights**
+
+- Natural language interaction
+- Intelligent task planning
+- Tool-based automation
+- Remote assistance architecture
 
 ---
 
 ### [PinhoGym — Gym Management System](https://github.com/HenriqueC-r/PinhoGym)
-A complete gym management system developed and successfully sold to a local gym, built to handle real day-to-day operations.
+
+A complete gym management system developed and successfully deployed for a local business.
 
 ---
 
 ### [Registration Automation](https://github.com/HenriqueC-r/registration-automation)
-A desktop automation tool that reads product data from spreadsheets (pandas) and automatically fills registration forms in a legacy system using PyAutoGUI — eliminating manual data entry.
+
+A desktop automation tool that reads spreadsheet data with Pandas and automatically fills a legacy system using PyAutoGUI, eliminating repetitive manual work.
 
 ---
 
 ## ⚙️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=quasar&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -80,6 +98,7 @@ A desktop automation tool that reads product data from spreadsheets (pandas) and
 <div align="center">
 
 ![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueC-r&show_icons=true&theme=default&hide_border=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueC-r&layout=compact&hide_border=true&theme=default)
 
 </div>
@@ -88,16 +107,16 @@ A desktop automation tool that reads product data from spreadsheets (pandas) and
 
 ## 🎯 Current Goals
 
+- Develop scalable backend applications
+- Expand GestãoIP to new clients
 - Continue developing IARA
-- Expand GestãoIP for more clients
-- Deepen knowledge in Artificial Intelligence
-- Build scalable backend solutions
-- Improve English skills
+- Improve Software Architecture skills
+- Deepen my knowledge of Artificial Intelligence
 
 ---
 
 <div align="center">
 
-*Turning ideas into real-world software.*
+**Building software that solves real-world problems.**
 
 </div>
